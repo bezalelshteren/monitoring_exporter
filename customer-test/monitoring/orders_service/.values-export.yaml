@@ -1,0 +1,6 @@
+namespace:
+  name: customer-test-dev-orders_service
+  ip: 10.20.30.40
+  ip_pmm: 10.20.30.41
+  ecs_id: ecs-test-2026
+  ecs_token: test-token-987654
