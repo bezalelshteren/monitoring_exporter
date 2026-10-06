@@ -1,0 +1,6 @@
+namespace:
+  name: rtemis-dev-buntis
+  ip: 127.0.0.1
+  ip_pmm: 127.00.0.2
+  ecs_id: vfsdddddddddd
+  ecs_token: dssssssssssssssv
